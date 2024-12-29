@@ -1,3 +1,6 @@
+#after new requirments chat missed..lol
+You didn't realize that when I asked for "docker users" that that implies that all users need the docker group. and for additional perfection I would like my requests to be accumulated and displayed in the appendix as a running transcript. Please redo your work from scratch while resolving my known issues I stated. Thanks! You are still a rockstar in my book so please give yourself credit in the appendices.
+
 **Title:** The Tale of the Ansible BeaglePlay Controller
 
 **Executive Summary:**
